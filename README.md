@@ -7,10 +7,16 @@
 
 •	Configure the compute instance to allow access to the dataset through the MAGE data pipeline and perform transformation and load this data to google big query and then visualize the data in looker
 
-The project utilizes the following services
-•	Programming Language - Python
-•	Google Cloud Platform
-•	Google Storage
-•	Compute Instance
-•	Big Query
-•	Looker Studio
+The project utilizes the following services:
+
+•	Programming Language - Python.
+
+•	Google Cloud Platform.
+
+•	Google Storage.
+
+•	Compute Instance.
+
+•	Big Query.
+
+•	Looker Studio.
