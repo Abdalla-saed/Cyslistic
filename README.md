@@ -20,3 +20,6 @@ The project utilizes the following services:
 •	Big Query.
 
 •	Looker Studio.
+
+# Dataset:
+  Open source datsets contains capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
